@@ -5,3 +5,5 @@ console.log('main.js loaded');
 
 console.log('main')
 console.log('adada')
+
+console.log('from main')
